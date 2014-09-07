@@ -4,3 +4,12 @@
 
 
 NAPOLEON = "Able was I, ere I saw Elba."
+
+REVERSED = NAPOLEON [::-1]
+
+print NAPOLEON
+
+ENTITLED = REVERSED.title()
+
+print ENTITLED
+
