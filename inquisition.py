@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Task 9 Multi-line doctrings. 
+Task 9 Multi-line doctrings.
 """
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
