@@ -27,9 +27,8 @@ def get_member_count(my_sequence):
         length = len(my_sequence)
     except TypeError:
         length = False
-
-
     return length
+
 
 def is_empty(my_sequence):
     """Tests whether or not the passed sequence is empty.

@@ -10,4 +10,3 @@ WILL_ROBINSON = 'Danger Will Robinson!'
 KLAXON = WILL_ROBINSON[:6] * 5
 
 print KLAXON
-
