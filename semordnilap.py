@@ -12,4 +12,3 @@ print NAPOLEON
 ENTITLED = REVERSED.title()
 
 print ENTITLED
-
