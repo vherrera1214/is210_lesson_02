@@ -7,8 +7,8 @@ import inquisition
 
 FISHY = inquisition.SPANISH.replace('surprise', 'haddock')
 
-RE = 'Spanish'
+R = 'Spanish'
 
-FLEMISH = FISHY[: FISHY.index(RE)] + 'Flemish' + FISHY[FISHY.index(RE) + len(RE):]
+FLEMISH = FISHY[: FISHY.index(R)] + 'Flemish' + FISHY[FISHY.index(R) + len(R):]
 
 print FLEMISH
