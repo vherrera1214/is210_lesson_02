@@ -10,6 +10,6 @@ DECIMALVAR = decimal.Decimal(0.1)
 from fractions import Fraction
 FRACTIONVAR = Fraction(1, 10)
 
-print (FLOATVAR)
-print (DECIMALVAR)
-print (FRACTIONVAR)
+print FLOATVAR
+print DECIMALVAR
+print FRACTIONVAR
