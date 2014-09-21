@@ -8,5 +8,6 @@ THE_GREAT_QUESTION = ('Michaelangelo. Leonardo. Rafael. Donatello. Turtles? '
 STATEMENTS = THE_GREAT_QUESTION.split()
 ARTISTS = STATEMENTS[0:4]
 NUM_ARTISTS = len(ARTISTS)
+CHARACTERS = len(THE_GREAT_QUESTION)
 
-print NUM_ARTISTS
+print CHARACTERS
