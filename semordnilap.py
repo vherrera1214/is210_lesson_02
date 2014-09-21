@@ -5,3 +5,4 @@
 
 NAPOLEON = "Able was I, ere I saw Elba."
 REVERSED = NAPOLEON[::-1]
+ENTITLED = REVERSED.title()
