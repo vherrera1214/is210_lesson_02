@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+""" The four weapons of the Spanish Inquisition!!!
 
+A multi-lined statement explaining the elements
+"""
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
