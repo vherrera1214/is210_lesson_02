@@ -4,4 +4,6 @@
 
 
 NOT_THE_QUESTION = 'The answer to life, the universe, and everything? It\'s '
-ANSWER = 42
+ANSWER = '42'
+
+THANKS_FOR_THE_FISH = (NOT_THE_QUESTION + ANSWER)
